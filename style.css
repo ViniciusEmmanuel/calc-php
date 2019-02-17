@@ -1,0 +1,24 @@
+body{
+    padding: 10px;
+
+
+}
+.contaneir{
+
+    max-width: 300px;
+    box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+.button{
+    margin-top: 10px;
+}
+button{
+    width:40px;}
+input{
+    text-align: center;
+    margin-top: 10px;
+    width:auto;
+}
